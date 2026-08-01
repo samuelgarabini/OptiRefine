@@ -38,7 +38,7 @@ Continue optimization
 
 OptiRefine does not perform any special repairs, which may prove to be universal.
 
-with Fugue
+with Fugue 
 
 <img width="851" height="477" alt="image" src="https://github.com/user-attachments/assets/9ac12224-b8dd-42f0-ba33-2975854a0fef" />
 
